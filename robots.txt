@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.nexitallyjc.com/sitemap.xml
